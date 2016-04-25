@@ -1,0 +1,5 @@
+active power - a/c power 
+reactive power - dc power
+current intensity - i: current
+voltage v
+
